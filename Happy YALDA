@@ -1,0 +1,6 @@
+print("Hello \U0001F64C")
+print("My name is Sajedeh Bakhshpour \U0001F60A")
+print("\U0001F60D Please enter your Name: ")
+Name = input()
+print("\U0001F496 Let us forget our sorrows keep our differences aside and join in the celebrations for Yalda \U0001F496")
+print(f"\U0001F339 Dear {Name} HAPPY YALDA \U0001F339  ")
